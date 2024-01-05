@@ -1,0 +1,17 @@
+C:\WorkspaceCouses\NetCoreDDD\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Data.deps.json
+C:\WorkspaceCouses\NetCoreDDD\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Data.runtimeconfig.json
+C:\WorkspaceCouses\NetCoreDDD\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Data.dll
+C:\WorkspaceCouses\NetCoreDDD\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Data.pdb
+C:\WorkspaceCouses\NetCoreDDD\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+C:\WorkspaceCouses\NetCoreDDD\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+C:\WorkspaceCouses\NetCoreDDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.csproj.AssemblyReference.cache
+C:\WorkspaceCouses\NetCoreDDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkspaceCouses\NetCoreDDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.AssemblyInfoInputs.cache
+C:\WorkspaceCouses\NetCoreDDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.AssemblyInfo.cs
+C:\WorkspaceCouses\NetCoreDDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.csproj.CoreCompileInputs.cache
+C:\WorkspaceCouses\NetCoreDDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.csproj.CopyComplete
+C:\WorkspaceCouses\NetCoreDDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.dll
+C:\WorkspaceCouses\NetCoreDDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net8.0\refint\CleanArchitecture.Data.dll
+C:\WorkspaceCouses\NetCoreDDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.pdb
+C:\WorkspaceCouses\NetCoreDDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net8.0\CleanArchitecture.Data.genruntimeconfig.cache
+C:\WorkspaceCouses\NetCoreDDD\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net8.0\ref\CleanArchitecture.Data.dll
