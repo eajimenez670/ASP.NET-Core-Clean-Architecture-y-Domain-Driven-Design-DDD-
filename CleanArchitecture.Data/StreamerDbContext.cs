@@ -13,6 +13,23 @@ namespace CleanArchitecture.Data
                 .EnableSensitiveDataLogging();
         }
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Streamer>()
+                .HasMany(m => m.Videos)
+                .WithOne(m => m.Streamer)
+                .HasForeignKey(m => m.StreamerId)
+                .IsRequired()
+                .OnDelete(DeleteBehavior.Restrict);
+
+            modelBuilder.Entity<Video>()
+                .HasMany(m => m.Actores)
+                .WithMany(m => m.Videos)
+                .UsingEntity<VideoActor>(
+                    pt => pt.HasKey(e => new { e.ActorId, e.VideoId })
+                );
+        }
+
         // Mapea clases C# a entidades
         public DbSet<Streamer> Streamers { get; set; }
         public DbSet<Video> Videos { get; set; }

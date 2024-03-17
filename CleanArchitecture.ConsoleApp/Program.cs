@@ -8,10 +8,23 @@ StreamerDbContext dbContext = new();
 // await QueryStreaming();
 // await QueryFilter();
 // await QueryMethods();
-await QueryLinq();
+// await QueryLinq();
+await TrackingAndNotTracking();
 
 Console.WriteLine("Presione cualquier tecla para terminar el programa");
 Console.ReadKey();
+
+async Task TrackingAndNotTracking()
+{
+    var streamerWithTracking = await dbContext.Streamers.FirstOrDefaultAsync(x => x.Id == 1);
+    var streamerWithNotTracking = await dbContext.Streamers.AsNoTracking()
+        .FirstOrDefaultAsync(x => x.Id == 2);
+
+    streamerWithTracking.Nombre = "Netflix Super";
+    streamerWithNotTracking.Nombre = "Amazon Plus";
+
+    await dbContext.SaveChangesAsync();
+}
 
 async Task QueryLinq()
 {
@@ -27,8 +40,6 @@ async Task QueryLinq()
     {
         Console.WriteLine($"{streamer.Id} - {streamer.Nombre}");
     }
-
-
 }
 
 async Task QueryMethods()

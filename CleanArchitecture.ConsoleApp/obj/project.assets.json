@@ -4013,23 +4013,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\edisonj\\.nuget\\packages\\": {},
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WorkspaceCouses\\NetCoreDDD\\CleanArchitecture\\CleanArchitecture.ConsoleApp\\CleanArchitecture.ConsoleApp.csproj",
+      "projectUniqueName": "D:\\WorkSpace\\ASP.NET-Core-Clean-Architecture-y-Domain-Driven-Design-DDD-\\CleanArchitecture.ConsoleApp\\CleanArchitecture.ConsoleApp.csproj",
       "projectName": "CleanArchitecture.ConsoleApp",
-      "projectPath": "C:\\WorkspaceCouses\\NetCoreDDD\\CleanArchitecture\\CleanArchitecture.ConsoleApp\\CleanArchitecture.ConsoleApp.csproj",
-      "packagesPath": "C:\\Users\\edisonj\\.nuget\\packages\\",
-      "outputPath": "C:\\WorkspaceCouses\\NetCoreDDD\\CleanArchitecture\\CleanArchitecture.ConsoleApp\\obj\\",
+      "projectPath": "D:\\WorkSpace\\ASP.NET-Core-Clean-Architecture-y-Domain-Driven-Design-DDD-\\CleanArchitecture.ConsoleApp\\CleanArchitecture.ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "D:\\WorkSpace\\ASP.NET-Core-Clean-Architecture-y-Domain-Driven-Design-DDD-\\CleanArchitecture.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\edisonj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4039,17 +4039,18 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.devexpress.com/7jvHY2uLdXR7bXecVhUSZp2Q3Oaugh8NYS4eSUhXc9JzgzmnxB/api": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\WorkspaceCouses\\NetCoreDDD\\CleanArchitecture\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj": {
-              "projectPath": "C:\\WorkspaceCouses\\NetCoreDDD\\CleanArchitecture\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj"
+            "D:\\WorkSpace\\ASP.NET-Core-Clean-Architecture-y-Domain-Driven-Design-DDD-\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj": {
+              "projectPath": "D:\\WorkSpace\\ASP.NET-Core-Clean-Architecture-y-Domain-Driven-Design-DDD-\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj"
             },
-            "C:\\WorkspaceCouses\\NetCoreDDD\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
-              "projectPath": "C:\\WorkspaceCouses\\NetCoreDDD\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
+            "D:\\WorkSpace\\ASP.NET-Core-Clean-Architecture-y-Domain-Driven-Design-DDD-\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+              "projectPath": "D:\\WorkSpace\\ASP.NET-Core-Clean-Architecture-y-Domain-Driven-Design-DDD-\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
             }
           }
         }

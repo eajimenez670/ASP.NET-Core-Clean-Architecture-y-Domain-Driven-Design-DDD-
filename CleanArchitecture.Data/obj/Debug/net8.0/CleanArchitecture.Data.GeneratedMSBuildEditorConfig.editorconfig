@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CleanArchitecture.Data
-build_property.ProjectDir = C:\WorkspaceCouses\NetCoreDDD\CleanArchitecture\CleanArchitecture.Data\
+build_property.ProjectDir = D:\WorkSpace\ASP.NET-Core-Clean-Architecture-y-Domain-Driven-Design-DDD-\CleanArchitecture.Data\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

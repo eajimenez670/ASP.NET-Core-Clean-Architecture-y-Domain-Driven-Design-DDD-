@@ -9,3 +9,15 @@ C:\WorkspaceCouses\NetCoreDDD\CleanArchitecture\CleanArchitecture.Domain\obj\Deb
 C:\WorkspaceCouses\NetCoreDDD\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net8.0\refint\CleanArchitecture.Domain.dll
 C:\WorkspaceCouses\NetCoreDDD\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.pdb
 C:\WorkspaceCouses\NetCoreDDD\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net8.0\ref\CleanArchitecture.Domain.dll
+D:\WorkSpace\ASP.NET-Core-Clean-Architecture-y-Domain-Driven-Design-DDD-\CleanArchitecture.Domain\bin\Debug\net8.0\CleanArchitecture.Domain.deps.json
+D:\WorkSpace\ASP.NET-Core-Clean-Architecture-y-Domain-Driven-Design-DDD-\CleanArchitecture.Domain\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+D:\WorkSpace\ASP.NET-Core-Clean-Architecture-y-Domain-Driven-Design-DDD-\CleanArchitecture.Domain\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+D:\WorkSpace\ASP.NET-Core-Clean-Architecture-y-Domain-Driven-Design-DDD-\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\ASP.NET-Core-Clean-Architecture-y-Domain-Driven-Design-DDD-\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+D:\WorkSpace\ASP.NET-Core-Clean-Architecture-y-Domain-Driven-Design-DDD-\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.AssemblyInfo.cs
+D:\WorkSpace\ASP.NET-Core-Clean-Architecture-y-Domain-Driven-Design-DDD-\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+D:\WorkSpace\ASP.NET-Core-Clean-Architecture-y-Domain-Driven-Design-DDD-\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.sourcelink.json
+D:\WorkSpace\ASP.NET-Core-Clean-Architecture-y-Domain-Driven-Design-DDD-\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.dll
+D:\WorkSpace\ASP.NET-Core-Clean-Architecture-y-Domain-Driven-Design-DDD-\CleanArchitecture.Domain\obj\Debug\net8.0\refint\CleanArchitecture.Domain.dll
+D:\WorkSpace\ASP.NET-Core-Clean-Architecture-y-Domain-Driven-Design-DDD-\CleanArchitecture.Domain\obj\Debug\net8.0\CleanArchitecture.Domain.pdb
+D:\WorkSpace\ASP.NET-Core-Clean-Architecture-y-Domain-Driven-Design-DDD-\CleanArchitecture.Domain\obj\Debug\net8.0\ref\CleanArchitecture.Domain.dll
